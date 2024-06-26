@@ -1,0 +1,6 @@
+C:\Users\Администратор\Desktop\test2\CompanyCoreLib\CompanyCoreLib\bin\Debug\CompanyCoreLib.pdb
+C:\Users\Администратор\Desktop\test2\CompanyCoreLib\CompanyCoreLib\obj\Debug\CompanyCoreLib.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\test2\CompanyCoreLib\CompanyCoreLib\obj\Debug\CompanyCoreLib.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\test2\CompanyCoreLib\CompanyCoreLib\obj\Debug\CompanyCoreLib.dll
+C:\Users\Администратор\Desktop\test2\CompanyCoreLib\CompanyCoreLib\obj\Debug\CompanyCoreLib.pdb
+C:\Users\Администратор\Desktop\test2\CompanyCoreLib\CompanyCoreLib\obj\Debug\CompanyCoreLib.csproj.CopyComplete
